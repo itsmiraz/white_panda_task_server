@@ -1,0 +1,43 @@
+[
+    {
+        "title":"Hyundai Grand i10",    
+        "img":"https://www.ccarprice.com/products/Hyundai_Grand_i10_Nios_Sportz.jpg",
+        "rent_price":350,
+        "seater":4,
+        "color":"White",
+        "vechile_number":"18 D 4232",
+        "details":"The Hyundai Grand i10 was the most attractive package in its segment when it was launched back in September 2013. It was priced aggressively, looked smart on the inside, had class-leading interior quality, segment-first features and was backed by a reliable after-sales network. While the Grand i10 was offered with both petrol and diesel powertrains, the diesel motor was not the most powerful in the segment - the only downside in an otherwise brilliant package. "
+        
+    },
+    {
+        "title":"Ford Ecosport",    
+        "img":"https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/EcoSport/7323/1609839628163/front-left-side-47.jpg",
+        "rent_price":1350,
+        "seater":4,
+        "color":"Red",
+        "vechile_number":"38 D 4232",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, asperiores quia corrupti inventore ipsum maxime vitae eos excepturi dolorem, itaque, dolores autem! Consectetur magnam, nisi nam voluptas natus, officia debitis officiis praesentium, soluta dolores placeat esse quae ullam? Ea, sapiente reprehenderit! Quam neque, exercitationem voluptates reiciendis aperiam vero perspiciatis vel."
+        
+    },
+    {
+        "title":"Maruti Suzuki XL6",    
+        "img":"https://imgd.aeplcdn.com/0x0/n/cw/ec/115601/2022-xl6-exterior-right-front-three-quarter-3.jpeg?isig=0",
+        "rent_price":750,
+        "seater":6,
+        "color":"Dark Blue",
+        "vechile_number":"348 D 4232",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, asperiores quia corrupti inventore ipsum maxime vitae eos excepturi dolorem, itaque, dolores autem! Consectetur magnam, nisi nam voluptas natus, officia debitis officiis praesentium, soluta dolores placeat esse quae ullam? Ea, sapiente reprehenderit! Quam neque, exercitationem voluptates reiciendis aperiam vero perspiciatis vel."
+        
+    },
+    {
+        "title":"Honda Civic",    
+        "img":"https://hips.hearstapps.com/hmg-prod/images/2022-honda-civic-hatchback-sport-touring-309-1634066512.jpg?crop=0.554xw:0.415xh;0.327xw,0.525xh&resize=1200:*",
+        "rent_price":3750,
+        "seater":6,
+        "color":"Gray",
+        "vechile_number":"318 D 4232",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, asperiores quia corrupti inventore ipsum maxime vitae eos excepturi dolorem, itaque, dolores autem! Consectetur magnam, nisi nam voluptas natus, officia debitis officiis praesentium, soluta dolores placeat esse quae ullam? Ea, sapiente reprehenderit! Quam neque, exercitationem voluptates reiciendis aperiam vero perspiciatis vel."
+        
+    }
+
+]
